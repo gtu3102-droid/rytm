@@ -1,0 +1,13 @@
+{
+  "appId": "app.rytm.health",
+  "appName": "رتم",
+  "webDir": "www",
+  "android": {
+    "backgroundColor": "#111A28"
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}
